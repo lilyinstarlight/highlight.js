@@ -16,6 +16,10 @@ Grammars:
 - fix(ps1) Flag highlighted incorrectly (#3167) [Pankaj Patil][]
 - fix(latex) Allow wider syntax for magic comments (#3243) [Benedikt Wilde][]
 
+New Languages:
+
+- Added Zeek support [Lily Foster][]
+
 [Stel Abrego]: https://github.com/stelcodes
 [Josh Goebel]: https://github.com/joshgoebel
 [Antoine Lambert]: https://github.com/anlambert
@@ -26,6 +30,7 @@ Grammars:
 [Pankaj Patil]: https://github.com/patil2099
 [Benedikt Wilde]: https://github.com/schtandard
 [Thanos Karagiannis]: https://github.com/thanoskrg
+[Lily Foster]: https://github.com/lilyinstarlight
 
 
 ## Version 11.0.0

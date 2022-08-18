@@ -1,0 +1,9 @@
+<span class="hljs-class"><span class="hljs-keyword">type</span> <span class="hljs-title">Record</span></span>: <span class="hljs-keyword">record</span> {
+  a: <span class="hljs-keyword">count</span>;
+  b: <span class="hljs-keyword">vector</span>[<span class="hljs-keyword">count</span>];
+  c: <span class="hljs-keyword">table</span>[<span class="hljs-keyword">count</span>] <span class="hljs-keyword">of</span> <span class="hljs-keyword">count</span>;
+};
+
+<span class="hljs-class"><span class="hljs-keyword">type</span> <span class="hljs-title">Enum</span></span>: <span class="hljs-keyword">enum</span> { FIRST, SECOND, THIRD };
+
+<span class="hljs-class"><span class="hljs-keyword">type</span> <span class="hljs-title">VectorOfCount</span></span>: <span class="hljs-keyword">vector</span>[<span class="hljs-keyword">count</span>];

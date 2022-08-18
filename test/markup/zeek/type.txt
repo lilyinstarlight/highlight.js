@@ -1,0 +1,9 @@
+type Record: record {
+  a: count;
+  b: vector[count];
+  c: table[count] of count;
+};
+
+type Enum: enum { FIRST, SECOND, THIRD };
+
+type VectorOfCount: vector[count];

@@ -212,6 +212,7 @@ The table below shows the full list of languages (and corresponding classes/alia
 | XL                      | xl, tao                |         |
 | XQuery                  | xquery, xpath, xq      |         |
 | YAML                    | yml, yaml              |         |
+| Zeek                    | zeek, bro              |         |
 | ZenScript               | zenscript, zs          |[highlightjs-zenscript](https://github.com/highlightjs/highlightjs-zenscript) |
 | Zephir                  | zephir, zep            |         |
 <!-- LANGLIST_END -->

@@ -1,0 +1,8 @@
+<span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">print_count</span><span class="hljs-params">(c: <span class="hljs-keyword">count</span> &amp;<span class="hljs-keyword">default</span>=10)</span><span class="hljs-params">:</span> <span class="hljs-title">count</span></span>
+  {
+  <span class="hljs-keyword">while</span> ( c &gt; <span class="hljs-number">0</span> )
+    {
+    <span class="hljs-keyword">print</span> c;
+    c--;
+    }
+  }

@@ -1,0 +1,3 @@
+* fix difference between function declaration and function as a type
+* think about type delcarations and whether they need the 'class' attribute or maybe just the 'title' one
+* fix function highlighting
